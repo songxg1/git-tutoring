@@ -1,5 +1,5 @@
 # git-tutoring
-the first local git project
+the third local git project
 this is a trial for git branch
 just for edit
 a git tutoring repo from Mars Song
